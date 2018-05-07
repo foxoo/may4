@@ -1,0 +1,5 @@
+1.first git status to check;
+2.second git add .  to  add;
+3.third git commit -M "version" to 
+4.forth git push
+
